@@ -14,10 +14,10 @@ This project is ideal for algorithm learning, data structure simulation, and ser
 
 * **Clear low-level logic**: The internal array uses 1-based indexing, making the mathematical calculation of parent and child node indices like `left = 2 * i` and `right = 2 * i + 1` much more intuitive.
 * **Core operations supported**:
-  * `push k`: Inserts the element `k` into the heap and automatically maintains the max heap property.
+  * `push k`: Inserts the element  into the heap and automatically maintains the max heap property.
   * `pop`: Removes and returns the maximum element at the top of the heap, then rebalances the tree.
   * `peek`: Retrieves the value of the maximum element at the top of the heap without removing it.
-* **Edge case handling**: Gracefully handles operations on an empty heap by returning and printing `null`.
+* **Edge case handling**: Gracefully handles operations on an empty heap by returning and printing .
 
 ##  Quick Start
 
