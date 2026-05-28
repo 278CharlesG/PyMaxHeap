@@ -6,7 +6,7 @@
 
 ##  Introduction
 
-This project is a custom implementation of a Max Heap data structure from scratch using Python. It does not rely on the built-in `heapq` module. Instead, it manually maintains heap properties through an underlying array, fully implementing the core sift-up and sift-down operations.
+This project is a custom implementation of a Max Heap data structure from scratch using Python. It does not rely on the built-in heapq module. Instead, it manually maintains heap properties through an underlying array, fully implementing the core sift-up and sift-down operations.
 
 This project is ideal for algorithm learning, data structure simulation, and serving as a low-level component for more complex systems. It also provides a command-line interactive interface based on standard input and output.
 
