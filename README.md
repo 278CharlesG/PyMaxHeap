@@ -19,7 +19,7 @@ This project is ideal for algorithm learning, data structure simulation, and ser
 
 ##  Quick Start
 
-You can run this script directly via the terminal and pass operation commands through standard input.
+You can run this script directly via the terminal and pass operation commands through standard input
 
 ### 1. File Input Mode
 
